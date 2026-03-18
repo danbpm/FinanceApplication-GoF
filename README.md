@@ -181,4 +181,4 @@ test/                                               # юнит тесты
 
 
 ## Cсылка на скринкаст
-https://drive.google.com/file/d/1d47c7HOny9tBMcE95gLOYRI516yj04u9/view?usp=sharing
+https://drive.google.com/file/d/1kKNaxUfh2Y3qER2Hr4qk8IDMOmgjQ0eN/view?usp=sharing
